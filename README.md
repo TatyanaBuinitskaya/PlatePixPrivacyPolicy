@@ -1,1 +1,1 @@
-# PlateStoryPrivacyPolicy
+# PlatePixPrivacyPolicy
